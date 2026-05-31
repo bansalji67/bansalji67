@@ -5,7 +5,9 @@ I am a passionate to learn New Things and always eager to upgrade my skills
 Here are some ideas to get you started:
 
 -📊 Specialized in Power BI, SQL, Excel VBA, Python
+
 -💼 Open to Data Analyst and Power BI opportunities
+
 -📈 Creating dashboards and business insights
 
 ## 🛠 Skills
