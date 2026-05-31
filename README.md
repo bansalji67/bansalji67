@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 - Python
 - VBA
 
+  💡  My Teaching Philosophy
+  
+  Unlike traditional tutorials, I believe in:
+  
+  ✔ Learning by doing (hands-on first)
+  ✔ Real-world datasets instead of theory-only
+
   ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitbansal&show_icons=true)
