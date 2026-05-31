@@ -1,6 +1,6 @@
 About Me 👋
 
-I am a passionate to learn New Things and always eager to upgrade my skills
+I am a passionate to learn new things and always eager to upgrade my skills
 
 Here are some ideas to get you started:
 
