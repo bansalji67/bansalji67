@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
   🧰 Tech Stack & Tools
 
-<h3 align="center">🛠 Technologies & Tools</h3>
+[<h3 align="center">🛠 Technologies & Tools</h3>](https://camo.githubusercontent.com/324b4cfa68deb1b9c0008c02e910370ae1e1b7141ce0fe77972b6ea034e7abb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 
   ## 📈 GitHub Stats
 
