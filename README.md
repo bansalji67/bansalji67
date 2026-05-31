@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   ✔ Real-world datasets instead of theory-only
 
   🧰 Tech Stack & Tools
-
-  https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+BUILD
+PASSING
 
   ## 📈 GitHub Stats
 
