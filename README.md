@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
   🧰 Tech Stack & Tools
 
-[<h3 align="center">🛠 Technologies & Tools</h3>]
+![Static Badge](https://img.shields.io/badge/Python-3776AB--style--python%26logoColor%3Dwhite%22%2F)
+
 
   ## 📈 GitHub Stats
 
