@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   ✔ Learning by doing (hands-on first)
   ✔ Real-world datasets instead of theory-only
 
+  🧰 Tech Stack & Tools
+
+  https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+
   ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitbansal&show_icons=true)
