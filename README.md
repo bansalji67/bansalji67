@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 
 - LinkedIn : https://www.linkedin.com/in/sumitb1/
-- Email : sumit.bansal221@gmail.com
-- GitHub
+- Email    : sumit.bansal221@gmail.com
+- GitHub   : https://github.com/bansalji67
